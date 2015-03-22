@@ -14,7 +14,10 @@
     "private": false,
     "permissions": "",
     "dependencies": {
-        "core": "*",
+        "core": {
+		"min":"*",
+		"max":"3.6.4",
+	},
     },
     "repository": {
         "type": "git",
