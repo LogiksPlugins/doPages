@@ -1,0 +1,30 @@
+{
+    "name": "page",
+    "version": "1.0.0",
+    "package":"page",
+    "type": "module",
+    "app": "*",
+    "privilege": "*",
+    "description": "This module is a developer module used for various kinds of pages in the digiOffice System or where ever full screen space can be consumed.",
+    "keywords": "logiks,modules,page",
+    "license": "MIT",
+    "marketid": "",
+    "homepage": "https://github.com/LogiksPlugins/page",
+    "bugs": "https://github.com/LogiksPlugins/page/issues",
+    "private": false,
+    "permissions": "",
+    "dependencies": {
+        "core": "*",
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LogiksPlugins/page.git"
+    },
+    "authors": [
+        {
+            "name": "OpenLogiks Team",
+            "email": "admin@openlogiks.org",
+            "authorid":"olgksadmin"
+        }
+    ]
+}
