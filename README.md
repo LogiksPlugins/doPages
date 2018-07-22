@@ -1,5 +1,13 @@
-page Plugin
-===========
+# doPage Plugin
+===============
+
+This module is no longer maintained and has been replaced by a newer module compatible with Logiks4
+
+https://github.com/LogiksPlugins/pages
+
+
+---
+
 
 This module is a developer module used for various kinds of pages in the digiOffice System or where ever full screen space can be consumed.
 
